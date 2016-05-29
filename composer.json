@@ -1,6 +1,6 @@
 {
   "name": "nox-it/yii2-nox",
-  "description": "Yii2 NOX",
+  "description": "Yii2 NOX Base",
   "type": "library",
   "keywords": [
     "yii2",
@@ -9,7 +9,7 @@
     "php"
   ],
   "license": "Apache-2.0",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "authors": [
     {
       "name": "Jonatas Sas",
@@ -18,8 +18,20 @@
   ],
   "minimum-stability": "stable",
   "require": {
+    "php": ">=5.4.0",
     "yiisoft/yii2": "2.*",
-    "php": ">=5.4.0"
+    "yiisoft/yii2-apidoc": "2.*",
+    "yiisoft/yii2-authclient": "2.*",
+    "yiisoft/yii2-bootstrap": "2.*",
+    "yiisoft/yii2-imagine": "2.*",
+    "yiisoft/yii2-jui": "2.*",
+    "yiisoft/yii2-swiftmailer": "2.*"
+  },
+  "require-dev": {
+    "yiisoft/yii2-codeception": "2.*",
+    "yiisoft/yii2-debug": "2.*",
+    "yiisoft/yii2-gii": "2.*",
+    "yiisoft/yii2-faker": "2.*"
   },
   "autoload": {
     "psr-4": {
