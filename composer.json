@@ -9,7 +9,7 @@
     "php"
   ],
   "license": "BSD-3-Clause",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "authors": [
     {
       "name": "Jonatas Sas",
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "nox\\": ""
+      "nox\\": "base"
     }
   },
   "config": {
