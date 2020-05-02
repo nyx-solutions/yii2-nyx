@@ -2,14 +2,9 @@
   "name": "nox-it/yii2-nox",
   "description": "Yii2 NOX Base",
   "type": "library",
-  "keywords": [
-    "yii2",
-    "extension",
-    "framework",
-    "php"
-  ],
+  "keywords": ["yii2", "extension", "framework", "php"],
   "license": "BSD-3-Clause",
-  "version": "1.0.8",
+  "version": "2.0.0",
   "authors": [
     {
       "name": "Jonatas Sas",
@@ -18,8 +13,8 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=5.4.0",
-    "yiisoft/yii2": "2.*"
+    "php": ">=7.4.0",
+    "yiisoft/yii2": "~2.0.34"
   },
   "autoload": {
     "psr-4": {
@@ -30,6 +25,10 @@
     "process-timeout": 1800
   },
   "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    },
     {
       "type": "vcs",
       "url": "https://github.com/nox-it/yii2-nox"
