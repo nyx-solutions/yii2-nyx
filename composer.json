@@ -1,6 +1,6 @@
 {
-  "name": "nox-it/yii2-nox",
-  "description": "Yii2 NOX Base",
+  "name": "nyx-solutions/yii2-nyx",
+  "description": "Yii2 NYX Base",
   "type": "library",
   "keywords": ["yii2", "extension", "framework", "php"],
   "license": "BSD-3-Clause",
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "nox\\": "base"
+      "nyx\\": "base"
     }
   },
   "config": {
@@ -31,7 +31,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/nox-it/yii2-nox"
+      "url": "https://github.com/nyx-solutions/yii2-nyx"
     }
   ]
 }

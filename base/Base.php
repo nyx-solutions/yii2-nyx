@@ -1,6 +1,6 @@
 <?php
 
-    namespace nox;
+    namespace nyx;
 
     /**
      * Class Base
