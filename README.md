@@ -1,15 +1,15 @@
-Yii PHP Framework Version 2 / NOX Base
+Yii PHP Framework Version 2 / NYX Base
 ======================================
 
-Yii2 NOX Base is the base for all Yii2 NOX extensions.
+Yii2 NYX Base is the base for all Yii2 NYX extensions.
 
-[![Latest Stable Version](https://poser.pugx.org/nox-it/yii2-nox/v/stable)](https://packagist.org/packages/nox-it/yii2-nox)
-[![Total Downloads](https://poser.pugx.org/nox-it/yii2-nox/downloads)](https://packagist.org/packages/nox-it/yii2-nox)
-[![Latest Unstable Version](https://poser.pugx.org/nox-it/yii2-nox/v/unstable)](https://packagist.org/packages/nox-it/yii2-nox)
-[![License](https://poser.pugx.org/nox-it/yii2-nox/license)](https://packagist.org/packages/nox-it/yii2-nox)
-[![Monthly Downloads](https://poser.pugx.org/nox-it/yii2-nox/d/monthly)](https://packagist.org/packages/nox-it/yii2-nox)
-[![Daily Downloads](https://poser.pugx.org/nox-it/yii2-nox/d/daily)](https://packagist.org/packages/nox-it/yii2-nox)
-[![composer.lock](https://poser.pugx.org/nox-it/yii2-nox/composerlock)](https://packagist.org/packages/nox-it/yii2-nox)
+[![Latest Stable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx/v/stable)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
+[![Total Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx/downloads)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
+[![Latest Unstable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx/v/unstable)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
+[![License](https://poser.pugx.org/nyx-solutions/yii2-nyx/license)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
+[![Monthly Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx/d/monthly)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
+[![Daily Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx/d/daily)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
+[![composer.lock](https://poser.pugx.org/nyx-solutions/yii2-nyx/composerlock)](https://packagist.org/packages/nyx-solutions/yii2-nyx)
 
 ## Installation
 
@@ -18,13 +18,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-php composer.phar require --prefer-dist nox-it/yii2-nox "*"
+php composer.phar require --prefer-dist nyx-solutions/yii2-nyx "*"
 ```
 
 or add
 
 ```
-"nox-it/yii2-nox": "*"
+"nyx-solutions/yii2-nyx": "*"
 ```
 
 to the require section of your `composer.json` file.
