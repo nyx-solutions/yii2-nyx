@@ -4,11 +4,19 @@
   "type": "library",
   "keywords": ["yii2", "extension", "framework", "php"],
   "license": "BSD-3-Clause",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "authors": [
+    {
+      "name": "NYX Solutions",
+      "email": "nyx@jsas.com.br"
+    },
     {
       "name": "Jonatas Sas",
       "email": "atendimento@jsas.com.br"
+    },
+    {
+      "name": "Breno Herculano",
+      "email": "brenosouherculano@gmail.com"
     }
   ],
   "minimum-stability": "stable",
@@ -22,7 +30,10 @@
     }
   },
   "config": {
-    "process-timeout": 1800
+    "process-timeout": 1800,
+    "allow-plugins": {
+      "yiisoft/yii2-composer": true
+    }
   },
   "repositories": [
     {
